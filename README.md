@@ -1,6 +1,7 @@
 # pokemon-searcher
 create a simple single page app using POKEMON API
-instructions to use:
+
+Instructions to use:
 
 i) enter the pokemon you are looking for
 
